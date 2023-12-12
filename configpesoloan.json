@@ -1,0 +1,137 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin_max",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#347107197699371_347107587699332",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#347107197699371_347107664365991",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#347107197699371_347107734365984",
+      "startapp_app_id": "0",
+      "unity_game_id": "180600305",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "PesoLoan Hint",
+      "image": "https://djenewapul.uk/pesoloan/iknpesoloan.png"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "PesoLoan Hint",
+      "title": "User FAQs about Peso Loan",
+      "image": "https://djenewapul.uk/pesoloan/iknpesoloan.png",
+      "content": "https://djenewapul.uk/pesoloan/1 User FAQs about Peso Loan.html",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "PesoLoan Hint",
+      "title": "Informative guide on Philippine Pesoloan interest rates",
+      "image": "https://djenewapul.uk/pesoloan/iknpesoloan.png",
+      "content": "https://djenewapul.uk/pesoloan/2 Informative guide on Philippine Pesoloan interest rates.html",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "PesoLoan Hint",
+      "title": "Guide on how I can get a loan at Pesoloan",
+      "image": "https://djenewapul.uk/pesoloan/iknpesoloan.png",
+      "content": "https://djenewapul.uk/pesoloan/3 Guide on how I can get a loan at Pesoloan.html",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "PesoLoan Hint",
+      "title": "Guide to the benefits of Pesoloan",
+      "image": "https://djenewapul.uk/pesoloan/iknpesoloan.png",
+      "content": "https://djenewapul.uk/pesoloan/4 Guide to the benefits of Pesoloan.html",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "PesoLoan Hint",
+      "title": "Guide to legality within Peso Loan",
+      "image": "https://djenewapul.uk/pesoloan/iknpesoloan.png",
+      "content": "https://djenewapul.uk/pesoloan/5 Guide to legality within Peso Loan.html",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "PesoLoan Hint",
+      "title": "What is Pesoloan - Information guide",
+      "image": "https://djenewapul.uk/pesoloan/iknpesoloan.png",
+      "content": "https://djenewapul.uk/pesoloan/6 What is Pesoloan - Information guide.html",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "PesoLoan Hint",
+      "title": "How Do I Pay My Peso Loan",
+      "image": "https://djenewapul.uk/pesoloan/iknpesoloan.png",
+      "content": "https://djenewapul.uk/pesoloan/7 How Do I Pay My Peso Loan.html",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "PesoLoan Hint",
+      "title": "What Happens if You Don't Pay PesoLoan on Time",
+      "image": "https://djenewapul.uk/pesoloan/iknpesoloan.png",
+      "content": "https://djenewapul.uk/pesoloan/8 What Happens if You Don't Pay PesoLoan on Time.html",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    
+  ]
+}
